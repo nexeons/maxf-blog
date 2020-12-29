@@ -62,6 +62,6 @@ email: ""
 highlight_name: false
 ---
 
-Maxim is a professional engineer and experienced project manager with over 8 years of experience in the sectors of water, environment and energy. His key specialization areas include designing, managing and deploying rural infrastructure projects and studies mainly through his work in multiple countries in Africa, the Caribbean and South Asia.
+Water Resources Engineer specialized in hydrological and hydraulic modeling, flood mapping and analysis, GIS and data science. Former {{< staticref "https://www.cowater.com" "newtab" >}}Cowater{{< /staticref >}}, I spent close to 10 years addressing water resources engineering issues across the world. My work brought me from Burkina Faso in the Sahel desert of West Africa, to post-earthquake water infrastructure vulnerability assessments in Haiti, decentralized wastewater management in remote communities of Alaska, hydraulic modeling in the KP Provice of Pakistan and another dozen countries. I'm now focusing my work on hydrological and hydraulic modeling with {{< staticref "https://www.aquasphera.ca" "newtab" >}}Aquasphera{{< /staticref >}} closer to work, where we focus on flood analysis and local water management issues in Canada. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
