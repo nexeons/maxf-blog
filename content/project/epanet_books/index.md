@@ -1,22 +1,23 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Books for Development
+summary: Self-published books on Epanet and Google Earth
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- hydraulic modeling
+- geodata
+date: "2020-12-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Epanet for Development
   focal_point: Smart
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -30,12 +31,31 @@ url_video: ""
 slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Back in 2011, I was tasked with developing training materials for water engineers as part of a project where we were supporting the Government of Lesotho to design and implement over 250 rural water supply systems across the country. The training was to be focused on hydraulic modelling software, such as Epanet, for design of gravity-fed or pumped water supply schemes, integrated with geo-referenced CAD software.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+As I was developing the training materials, I connected with Santiago Arnalich, a Spain-based water consultant and overall great guy. We quickly realized that we shared a common vision for the promotion of knowledge in water system design in the development sector. Santiago invited me to participate in his book project, through the "Arnalich Water and Habitat" publications. I gladly accepted and went on to complete editing work for three publications:
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Epanet and Development
+How to calculate water networks by computer
+This manual aims at walking the reader through the design of a water supply network in a Development context by explaining in a simple manner how to build and analyze a computer model of a water network with Epanet.
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+Epanet is a free and widely used software from the U.S Environmental Protection Agency that models the hydraulic and water quality behavior of water distribution piping systems
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Printed copy (25$) - {{< staticref "https://www.amazon.ca/Epanet-Development-calculate-networks-computer/dp/8461314778" "newtab" >}}buy on Amazon{{< /staticref >}}
+PDF file (10$) - {{< staticref "https://gumroad.com/l/oaSfD" "newtab" >}}buy on Gumroad{{< /staticref >}}
+
+Epanet and Development
+A progressive 44 exercise workbook
+This collection of exercises has over 320 images designed to walk you step-by-step towards the modeling of water distribution systems which are commonly found in development work. You will learn how to load cartography and background images; to determine water demand and spatial allocation; to simulate the evolution of water quality in networks and to make economic comparisons, while avoiding the most common costly mistakes.
+
+Printed copy (25$) - {{< staticref "https://www.amazon.ca/-/fr/Santiago-Arnalich/dp/8461260880" "newtab" >}}buy on Amazon{{< /staticref >}}
+PDF file (10$) - {{< staticref "https://gumroad.com/l/uIbex" "newtab" >}}buy on Gumroad{{< /staticref >}}
+
+GPS & Google Earth for development
+How to create, share and collaborate with maps on the net
+This book shows you how to use a GPS and Google Earth to create simple and expressive maps to share on the web like the one shown on the cover.
+
+With a reading time of a mere 10 hours you will learn to work with a GPS without making mistakes, to use it with Google Earth including in areas without internet access and to quickly create diverse interactive maps that other people can see and modify over the internet without the need for experts or unnecessary complications.
+
+Printed copy (25$) - {{< staticref "https://www.amazon.ca/GPS-Google-Earth-Development-collaborate/dp/8461602358" "newtab" >}}buy on Amazon{{< /staticref >}}
+PDF file (10$) - {{< staticref "https://gumroad.com/l/nxMS" "newtab" >}}buy on Gumroad{{< /staticref >}}
