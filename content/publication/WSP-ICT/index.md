@@ -1,42 +1,40 @@
 ---
-title: "Epanet and Development: How to calculate water networks by computer"
+title: "Unlocking the Potential of ICT to Improve Water and Sanitation Services"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Santiago Arnalich
-- Maxim Fortin
-- Amelia Jimenez
+- World Bank Water and Sanitation Program
+- admin
 
 # Author notes (optional)
 author_notes:
 - "Author"
-- "Editor"
-- "Editor"
+- "Contributing Author"
 
-date: "2011-10-13T00:00:00Z"
+date: "2015-07-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2011-11-13T00:00:00Z"
+publishDate: ""
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["5"]
+publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: Arnalich Water and Habitat
-publication_short:
+publication: World Bank Water and Sanitation Program: Report
+publication_short: WB-WSP
 
-abstract: This manual aims at walking the reader through the design of a water supply network in a Development context by explaining in a simple manner how to build and analyze a computer model of a water network with Epanet. Epanet is a free and widely used software from the U.S Environmental Protection Agency that models the hydraulic and water quality behavior of water distribution piping systems
+abstract: Information Communications Technology (ICT) growth and uptake is changing the landscape of developing countries. Initial applications are showing how ICTs can further WASH goals and priorities, including increasing access, improving service delivery and improving governance. There already exists a substantial knowledge base on the use of ICTs for Development (ICT4D). However, too often the knowledge base focuses on the technological innovation itself, rather than how it can be embedded into sector management and governance systems. This study, therefore, aims to take stock and reflect on the findings from key ICT applications and experiences both in other sectors as well as in the WASH sector itself. By documenting and analyzing past successes, failures, enablers and barriers of the key applications and experiences, it is possible to significantly advance the areas of policy development, guidelines, implementation, and scale up of ICT in the WASH sector.
 
 # Summary. An optional shortened abstract.
 summary:
 
-tags: [epanet]
+tags: [mobile technology, ICT4D]
 
 # Display this page in the Featured widget?
 featured: true
@@ -52,13 +50,13 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.amazon.com/gp/product/8461314778?keywords=epanet&qid=1445116699&ref_=sr_1_1&sr=8-1'
+url_source: ''
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Epanet for Development'
+  caption: 'test'
   focal_point: ""
   preview_only: false
 
@@ -67,8 +65,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- epanet_books
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
