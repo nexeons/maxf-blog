@@ -1,5 +1,5 @@
 ---
-title: "Epanet and Development: How to calculate water networks by computer"
+title: "Epanet and Development: A progressive 44 exercise workbook"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,12 +7,10 @@ title: "Epanet and Development: How to calculate water networks by computer"
 authors:
 - Santiago Arnalich
 - Maxim Fortin
-- Amelia Jimenez
 
 # Author notes (optional)
 author_notes:
 - "Author"
-- "Editor"
 - "Editor"
 
 date: "2020-12-30T00:00:00Z"
@@ -31,7 +29,7 @@ publication_types: ["5"]
 publication: Arnalich Water and Habitat
 publication_short:
 
-abstract: This manual aims at walking the reader through the design of a water supply network in a Development context by explaining in a simple manner how to build and analyze a computer model of a water network with Epanet. Epanet is a free and widely used software from the U.S Environmental Protection Agency that models the hydraulic and water quality behavior of water distribution piping systems
+abstract: This collection of exercises has over 320 images designed to walk you step-by-step towards the modeling of water distribution systems which are commonly found in development work. You will learn how to load cartography and background images; to determine water demand and spatial allocation; to simulate the evolution of water quality in networks and to make economic comparisons, while avoiding the most common costly mistakes. This manual will help you make informed decisions for achieving clear and measurable results in development projects interventions. Epanet is a free and widely used software from the U.S Environmental Protection Agency that models the hydraulic and water quality behavior of water distribution piping systems.
 
 # Summary. An optional shortened abstract.
 summary:
@@ -52,7 +50,7 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.amazon.com/gp/product/8461314778?keywords=epanet&qid=1445116699&ref_=sr_1_1&sr=8-1'
+url_source: 'https://www.amazon.com/gp/product/8461260880?keywords=epanet&qid=1445116699&ref_=sr_1_2&sr=8-2'
 url_video: ''
 
 # Featured image
