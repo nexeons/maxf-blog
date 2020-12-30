@@ -16,10 +16,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url:
+#- icon: twitter
+#  icon_pack: fab
+#  name: Follow
+#  url:
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -67,3 +67,5 @@ With a reading time of a mere 10 hours you will learn to work with a GPS without
 
 Printed copy (25$) - {{< staticref "https://www.amazon.ca/GPS-Google-Earth-Development-collaborate/dp/8461602358" "newtab" >}}buy on Amazon{{< /staticref >}}  
 PDF file (10$) - {{< staticref "https://gumroad.com/l/nxMS" "newtab" >}}buy on Gumroad{{< /staticref >}}
+
+If you would like to learn more about the books, or need other ways of accessing them, feel free to contact me!
