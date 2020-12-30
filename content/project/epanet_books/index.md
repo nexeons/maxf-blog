@@ -57,7 +57,7 @@ This collection of exercises has over 320 images designed to walk you step-by-st
 Printed copy (25$) - {{< staticref "https://www.amazon.ca/-/fr/Santiago-Arnalich/dp/8461260880" "newtab" >}}buy on Amazon{{< /staticref >}}  
 PDF file (10$) - {{< staticref "https://gumroad.com/l/uIbex" "newtab" >}}buy on Gumroad{{< /staticref >}}
 
-![GPS and Google Earth](GPS_and_D.jpg)  
+<img align="left" src="GPS_and_D.jpg">
 
 **GPS & Google Earth for development**  
 *How to create, share and collaborate with maps on the net*  
