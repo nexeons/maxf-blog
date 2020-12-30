@@ -37,7 +37,7 @@ Back in 2011, I was tasked with developing training materials for water engineer
 
 As I was developing the training materials, I connected with Santiago Arnalich, a Spain-based water consultant and overall great guy. We quickly realized that we shared a common vision for the promotion of knowledge in water system design in the development sector. Santiago invited me to participate in his book project, through the "Arnalich Water and Habitat" publications. I gladly accepted and went on to complete editing work for three publications:
 
-<img align="left" src="Epanet_and_D_Theory.jpg">  
+<img align="left" src="Epanet_and_D_Theory.jpg"><br>
 
 **Epanet and Development**  
 *How to calculate water networks by computer*  
@@ -48,7 +48,7 @@ Epanet is a free and widely used software from the U.S Environmental Protection 
 Printed copy (25$) - {{< staticref "https://www.amazon.ca/Epanet-Development-calculate-networks-computer/dp/8461314778" "newtab" >}}buy on Amazon{{< /staticref >}}  
 PDF file (10$) - {{< staticref "https://gumroad.com/l/oaSfD" "newtab" >}}buy on Gumroad{{< /staticref >}}
 
-<img align="left" src="Epanet_and_D_Exercises.jpg">  
+<img align="left" src="Epanet_and_D_Exercises.jpg"><br>
 
 **Epanet and Development**  
 *A progressive 44 exercise workbook*  
@@ -57,7 +57,7 @@ This collection of exercises has over 320 images designed to walk you step-by-st
 Printed copy (25$) - {{< staticref "https://www.amazon.ca/-/fr/Santiago-Arnalich/dp/8461260880" "newtab" >}}buy on Amazon{{< /staticref >}}  
 PDF file (10$) - {{< staticref "https://gumroad.com/l/uIbex" "newtab" >}}buy on Gumroad{{< /staticref >}}
 
-<img align="left" src="GPS_and_D.jpg">  
+<img align="left" src="GPS_and_D.jpg"><br>
 
 **GPS & Google Earth for development**  
 *How to create, share and collaborate with maps on the net*  
