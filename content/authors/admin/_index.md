@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: M.Sc. in Water and Waste Engineering
-    institution: Loughborough University (UK)
+    institution: Loughborough University
     year: 2016
   - course: B.Eng. in Water Engineering
-    institution: Université Laval (Canada)
+    institution: Université Laval
     year: 2011
 
 # Social/Academic Networking
