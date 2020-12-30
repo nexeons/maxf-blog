@@ -2,8 +2,10 @@
 title: Books for Development
 summary: Self-published books on Epanet and Google Earth
 tags:
-- hydraulic modeling
-- geodata
+- Hydraulic Modelling
+- Epanet
+- Google Earth
+- GIS
 date: "2020-12-29T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -35,6 +37,8 @@ Back in 2011, I was tasked with developing training materials for water engineer
 
 As I was developing the training materials, I connected with Santiago Arnalich, a Spain-based water consultant and overall great guy. We quickly realized that we shared a common vision for the promotion of knowledge in water system design in the development sector. Santiago invited me to participate in his book project, through the "Arnalich Water and Habitat" publications. I gladly accepted and went on to complete editing work for three publications:
 
+![Epanet and Development: Theory](/static/Epanet_and_D_Theory.jpg)  
+
 **Epanet and Development**  
 *How to calculate water networks by computer*  
 This manual aims at walking the reader through the design of a water supply network in a Development context by explaining in a simple manner how to build and analyze a computer model of a water network with Epanet.
@@ -44,12 +48,16 @@ Epanet is a free and widely used software from the U.S Environmental Protection 
 Printed copy (25$) - {{< staticref "https://www.amazon.ca/Epanet-Development-calculate-networks-computer/dp/8461314778" "newtab" >}}buy on Amazon{{< /staticref >}}  
 PDF file (10$) - {{< staticref "https://gumroad.com/l/oaSfD" "newtab" >}}buy on Gumroad{{< /staticref >}}
 
+![Epanet and Development: Exercises](/static/Epanet_and_D_Exercises.jpg)  
+
 **Epanet and Development**  
 *A progressive 44 exercise workbook*  
 This collection of exercises has over 320 images designed to walk you step-by-step towards the modeling of water distribution systems which are commonly found in development work. You will learn how to load cartography and background images; to determine water demand and spatial allocation; to simulate the evolution of water quality in networks and to make economic comparisons, while avoiding the most common costly mistakes.
 
 Printed copy (25$) - {{< staticref "https://www.amazon.ca/-/fr/Santiago-Arnalich/dp/8461260880" "newtab" >}}buy on Amazon{{< /staticref >}}  
 PDF file (10$) - {{< staticref "https://gumroad.com/l/uIbex" "newtab" >}}buy on Gumroad{{< /staticref >}}
+
+![Epanet and Development: Exercises](/static/GPS_and_D.jpg)  
 
 **GPS & Google Earth for development**  
 *How to create, share and collaborate with maps on the net*  
