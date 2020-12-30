@@ -1,5 +1,5 @@
 ---
-title: "Epanet and Development: How to calculate water networks by computer"
+title: "GPS and Google Earth for Development: How to create, share and collaborate with maps on the net"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -7,7 +7,7 @@ title: "Epanet and Development: How to calculate water networks by computer"
 authors:
 - Santiago Arnalich
 - Maxim Fortin
-- Amelia Jimenez
+- Julio Urruela
 
 # Author notes (optional)
 author_notes:
@@ -15,7 +15,7 @@ author_notes:
 - "Editor"
 - "Editor"
 
-date: "2011-10-13T00:00:00Z"
+date: "2012-09-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -31,12 +31,12 @@ publication_types: ["5"]
 publication: Arnalich Water and Habitat
 publication_short:
 
-abstract: This manual aims at walking the reader through the design of a water supply network in a Development context by explaining in a simple manner how to build and analyze a computer model of a water network with Epanet. Epanet is a free and widely used software from the U.S Environmental Protection Agency that models the hydraulic and water quality behavior of water distribution piping systems
+abstract: This book shows you how to use a GPS and Google Earth to create simple and expressive maps to share on the web like the one shown on the cover. With a reading time of a mere 10 hours you will learn to work with a GPS without making mistakes, to use it with Google Earth including in areas without internet access and to quickly create diverse interactive maps that other people can see and modify over the internet without the need for experts or unnecessary complications. Even though it has been written in the context of Relief and Development work, the same process is valid for whatever other application.
 
 # Summary. An optional shortened abstract.
 summary:
 
-tags: [epanet]
+tags: [epanet, google earth]
 
 # Display this page in the Featured widget?
 featured: true
@@ -52,13 +52,13 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://www.amazon.com/gp/product/8461314778?keywords=epanet&qid=1445116699&ref_=sr_1_1&sr=8-1'
+url_source: 'https://www.amazon.com/GPS-Google-Earth-Development-collaborate/dp/8461602358/ref=sr_1_6?ie=UTF8&qid=1445116898&sr=8-6&keywords=google+earth+and+gps'
 url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Epanet for Development'
+  caption: 'GPS and Google Earth for Development'
   focal_point: ""
   preview_only: false
 
