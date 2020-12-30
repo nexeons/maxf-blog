@@ -14,7 +14,7 @@ organizations:
   url: https://www.aquasphera.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My professional interests include hydrological and hydraulic modeling, flood analysis, GIS and mapping 
+bio: My professional interests include hydrological and hydraulic modeling, flood analysis, GIS and mapping
 
 # Interests to show in About widget
 interests:
@@ -49,7 +49,7 @@ social:
   link: https://www.linkedin.com/in/maxim-fortin-97714640/
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
@@ -62,6 +62,6 @@ email: ""
 highlight_name: false
 ---
 
-Engineer specialized in hydrological and hydraulic modeling, flood mapping, GIS and data science. Former {{< staticref "https://www.cowater.com" "newtab" >}}Cowater{{< /staticref >}}, I spent close to 10 years addressing water resources engineering issues around the world. My carreer brought me all the way from water supply and flood mapping in the Sahel desert of West Africa, to post-earthquake water infrastructure vulnerability assessments in Haiti, decentralized wastewater management in remote communities of Alaska, hydraulic modeling in the Khyber Pakhtunkhwa Provice of Pakistan, large-scale mobile surveys for water infrastructure assessments in Jordan and various assignments in almost a dozen other countries. I'm now focusing my work on hydrological and hydraulic modeling closer to home with {{< staticref "https://www.aquasphera.ca" "newtab" >}}Aquasphera{{< /staticref >}}, where we specialize in flood analysis, stormwater management, drainage, erosion control and river modeling with governement and private partners here in Canada. 
+Engineer specialized in hydrological and hydraulic modeling, flood mapping, GIS and data science. Former {{< staticref "https://www.cowater.com" "newtab" >}}Cowater{{< /staticref >}}, I spent close to 10 years addressing water resources engineering issues around the world. My carreer brought me all the way from water supply and flood mapping in the Sahel desert of West Africa, to post-earthquake water infrastructure vulnerability assessments in Haiti, decentralized wastewater management in remote communities of Alaska, hydraulic modeling in the Khyber Pakhtunkhwa Provice of Pakistan, large-scale mobile surveys for water infrastructure assessments in Jordan and various assignments in almost a dozen other countries. I'm now focusing my work on hydrological and hydraulic modeling closer to home with {{< staticref "https://www.aquasphera.ca" "newtab" >}}Aquasphera{{< /staticref >}}, where we specialize in flood analysis, stormwater management, drainage, erosion control and river modeling with governement and private partners here in Canada.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_Maxim_Fortin.pdf" "newtab" >}}resumé{{< /staticref >}}.
