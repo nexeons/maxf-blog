@@ -8,7 +8,7 @@ authors:
 - admin
 
 # Author notes (optional)
-author_notes:
+author_notes: ""
 
 
 date: "2014-07-15T00:00:00Z"
@@ -32,7 +32,7 @@ abstract: Lack of adequate water and sanitation remains a key challenge in Haiti
 # Summary. An optional shortened abstract.
 summary:
 
-tags: [GIS, water supply]
+tags: [GIS]
 
 # Display this page in the Featured widget?
 featured: true
@@ -54,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'Test'
   focal_point: ""
   preview_only: false
 
@@ -63,7 +63,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ""
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
