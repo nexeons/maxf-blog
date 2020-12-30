@@ -26,8 +26,8 @@ publishDate: ""
 publication_types: ["4"]
 
 # Publication name and optional abbreviated publication name.
-publication: World Bank Water and Sanitation Program: Report
-publication_short: WB-WSP
+publication: World Bank
+publication_short: WB
 
 abstract: Information Communications Technology (ICT) growth and uptake is changing the landscape of developing countries. Initial applications are showing how ICTs can further WASH goals and priorities, including increasing access, improving service delivery and improving governance. There already exists a substantial knowledge base on the use of ICTs for Development (ICT4D). However, too often the knowledge base focuses on the technological innovation itself, rather than how it can be embedded into sector management and governance systems. This study, therefore, aims to take stock and reflect on the findings from key ICT applications and experiences both in other sectors as well as in the WASH sector itself. By documenting and analyzing past successes, failures, enablers and barriers of the key applications and experiences, it is possible to significantly advance the areas of policy development, guidelines, implementation, and scale up of ICT in the WASH sector.
 
