@@ -4,7 +4,7 @@
 widget: experience
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -30,11 +30,11 @@ experience:
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+
         * Analysing
         * Modelling
         * Deploying
-        
+
   - title: Project Director
     company: Cowater International
     company_url: 'https://www.cowater.com'
@@ -42,7 +42,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-    
+
   - title: Field Team Leader / Chief of Party
     company: Cowater International
     company_url: 'https://www.cowater.com'
@@ -50,7 +50,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.    
-    
+
   - title: Project Manager
     company: Cowater International
     company_url: 'https://www.cowater.com'
@@ -58,7 +58,7 @@ experience:
     date_start: '2016-01-01'
     date_end: '2016-12-31'
     description: Taught electronic engineering and researched semiconductor physics.
-    
+
   - title: Project Engineer
     company: Cowater International
     company_url: 'https://www.cowater.com'

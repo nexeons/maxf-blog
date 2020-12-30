@@ -1,18 +1,18 @@
 ---
 title: How it started, how it's going
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+subtitle: A neat little tool has been making the rounds amongst GIS afficionados since last week, enabling you to pull city boundaries from OpenStreetMap and quickly create a drawing with the city roads
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: A neat little tool has been making the rounds amongst GIS afficionados since last week, enabling you to pull city boundaries from OpenStreetMap and quickly create a drawing with the city roads
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: "2016-04-20T00:00:00Z"
+date: "2020-12-30T00:00:00Z"
 
 # Date updated
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2020-12-30T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Ouagadougou'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -39,11 +39,13 @@ categories:
 
 ---
 
+A neat little tool has been making the rounds amongst GIS afficionados since last week, enabling you to pull city boundaries from OpenStreetMap and quickly create a drawing with the city roads.  
+
 ## How it Started
 
-![How it started](Amos.png)
+![How it started](Amos.png)  
 
 ## How it's going
-![How it's going](Ottawa.png)
+![How it's going](Ottawa.png)  
 
-https://anvaka.github.io/city-roads/
+The open-source tool is available here: https://anvaka.github.io/city-roads/
