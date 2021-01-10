@@ -43,7 +43,7 @@ As I was developing the training materials, I connected with Santiago Arnalich, 
 *How to calculate water networks by computer*  
 This manual aims at walking the reader through the design of a water supply network in a Development context by explaining in a simple manner how to build and analyze a computer model of a water network with Epanet.
 
-Epanet is a free and widely used software from the U.S Environmental Protection Agency that models the hydraulic and water quality behavior of water distribution piping systems
+Epanet is a free and widely used software from the U.S Environmental Protection Agency that models the hydraulic and water quality behavior of water distribution piping systems.
 
 Printed copy (25$) - {{< staticref "https://www.amazon.ca/Epanet-Development-calculate-networks-computer/dp/8461314778" "newtab" >}}buy on Amazon{{< /staticref >}}  
 PDF file (10$) - {{< staticref "https://gumroad.com/l/oaSfD" "newtab" >}}buy on Gumroad{{< /staticref >}}

@@ -13,7 +13,7 @@ author_notes:
 - "Author"
 - "Contributing Author"
 
-date: "2015-07-01T00:00:00Z"
+date: "2009-10-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -75,9 +75,9 @@ projects: []
 slides: ""
 ---
 
-**VIE UNIVERSITAIRE**
-*7 octobre 2009*
-Par : Yvon Larose  
+**VIE UNIVERSITAIRE**  
+*7 octobre 2009*  
+Par : Yvon Larose   
 
 Ingénieur sans frontières  
 
@@ -90,4 +90,6 @@ Au Burkina Faso, c’est souvent par de petits forages équipés de pompes manue
 
 Le stage a permis à Maxim Fortin de préciser son avenir. Le rythme de vie au Burkina Faso, l’accueil qu’il y a reçu et les défis professionnels «absolument incroyables» qu’on y trouve font qu’il se voit très bien vivre et faire carrière dans ce pays.  
 
-ISF-Laval compte près de 25 membres actifs (http://ulaval.ewb.ca). Chaque année, ces étudiants font de gros efforts pour sensibiliser la population de la région de Québec aux réalités africaines. En 2008-2009, 500 jeunes du primaire et 1 100 jeunes du secondaire ont assisté aux ateliers de sensibilisation sur la pauvreté donnés gratuitement dans les écoles. «Ce qui m’attire le plus chez ISF, indique Maxim Fortin, est la remise en question constante de nos approches ou stratégies pour pouvoir toujours s’améliorer et avoir le plus d’impact possible.» Sa passion pour l’eau remonte à l’enfance. «J’ai toujours été le petit garçon qui rentrait détrempé à la maison parce qu’il avait construit un petit barrage dans le ruisseau du coin, ou parce qu’il s’était mis le pied au mauvais endroit!», raconte-t-il. Son plan de carrière? «Changer le monde pour le mieux et laisser ma trace.»
+ISF-Laval compte près de 25 membres actifs ({{< staticref "http://ulaval.ewb.ca" "newtab" >}}ISF-Laval{{< /staticref >}}). Chaque année, ces étudiants font de gros efforts pour sensibiliser la population de la région de Québec aux réalités africaines. En 2008-2009, 500 jeunes du primaire et 1 100 jeunes du secondaire ont assisté aux ateliers de sensibilisation sur la pauvreté donnés gratuitement dans les écoles. «Ce qui m’attire le plus chez ISF, indique Maxim Fortin, est la remise en question constante de nos approches ou stratégies pour pouvoir toujours s’améliorer et avoir le plus d’impact possible.» Sa passion pour l’eau remonte à l’enfance. «J’ai toujours été le petit garçon qui rentrait détrempé à la maison parce qu’il avait construit un petit barrage dans le ruisseau du coin, ou parce qu’il s’était mis le pied au mauvais endroit!», raconte-t-il. Son plan de carrière? «Changer le monde pour le mieux et laisser ma trace.»  
+
+Lien internet vers l'article: {{< staticref "https://nouvelles.ulaval.ca/vie-universitaire/ingenieur-sans-frontieres-8459ea69255cae898cb0ebe80f942d72" "newtab" >}}https://nouvelles.ulaval.ca/vie-universitaire/ingenieur-sans-frontieres-8459ea69255cae898cb0ebe80f942d72{{< /staticref >}}
