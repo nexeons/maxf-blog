@@ -24,8 +24,8 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Esri International User Conference, San Diego
-publication_short:
+publication: Esri International User Conference, San Diego
+publication_short: Esri International User Conference, San Diego
 
 abstract: Lack of adequate water and sanitation remains a key challenge in Haiti, with rural coverage estimated at 49 and 17% respectively. The Government of Haiti is working to improve the situation with the help of donor and development organizations, but a lack of reliable information on existing infrastructure hinders effective programming. Geo-referred maps of existing water points and small piped systems within 2,900 communities were prepared for the largest department in the country. Piped system surveys were geo-referenced with photos, technical descriptions and functionality assessments. The resultant water atlases were produced for each district to enable local authorities to be better aware of their infrastructure assets and their current condition, allowing effective programming and budgeting of current and future requirements.
 

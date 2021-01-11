@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal Faso Environnement
-publication_short: Faso Environnement
+publication_short: Journal Faso Environnement
 
 abstract: Le Ministre de l’Energie accompagné de l’ambassadeur du Canada a lancé officiellement à Dédougou ce jeudi 15 novembre 2018, le projet Energie et Croissance Economique Durable dans la région de la Boucle du Mouhoun (projet ECED-Mouhoun). Ce projet vise à accélérer la croissance économique durable à travers l’électrification rurale.
 

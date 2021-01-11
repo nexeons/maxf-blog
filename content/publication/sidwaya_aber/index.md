@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal Le Sidwaya
-publication_short: Sidwaya
+publication_short: Journal Le Sidwaya
 
 abstract: L’Agence burkinabè d’électrification rurale (ABER) a, lors d’un atelier national tenu les 3 et 4 octobre 2019, à Nioryida (commune rurale de Nobéré), dans la région du Centre-Sud, dévoilé sa nouvelle approche d’amélioration du taux d’électrification rurale.
 

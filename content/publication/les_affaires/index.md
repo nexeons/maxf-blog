@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal Les Affaires
-publication_short: Les Affaires
+publication_short: Journal Les Affaires
 
 abstract: À l'âge de 24 ans seulement, Maxim Fortin réalise des rêves de mobilité internationale généralement réservés à des ingénieurs beaucoup plus expérimentés. Cet été, il se trouvait à Haïti afin de collaborer à l'inventaire des infrastructures d'eau potable visant à donner priorité aux efforts de reconstruction de ce pays dévasté.
 

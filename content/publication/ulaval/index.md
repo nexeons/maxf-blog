@@ -27,7 +27,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: Journal Vie Universitaire
-publication_short: uLaval
+publication_short: Journal Vie Universitaire
 
 abstract: Le Burkina Faso. Les Nations Unies classent ce petit pays d’Afrique de l’Ouest parmi les plus pauvres du monde. Les quatre cinquièmes de la population active vivent de l’agriculture. En milieu rural, 9 ménages sur 10 n’ont pas accès à une latrine. «20 % des enfants de ce pays meurent avant l’âge de 5 ans et environ 40 % de ces décès sont reliés à des maladies véhiculées par l’eau», explique Maxim Fortin, étudiant en troisième année du programme de génie des eaux et coprésident de la section Université Laval (ISF-Laval) d’Ingénieurs sans frontières Canada (ISF-Canada). ISF-Canada est une organisation non gouvernementale (ONG) qui fait la promotion du développement humain par l’accès à la technologie.
 
