@@ -1,5 +1,5 @@
 ---
-title: "2017 Canadian Consulting Engineering Awards - Award of Excellence (International)"
+title: "2017 Canadian Consulting Engineering Awards - Award of Excellence"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -30,10 +30,10 @@ publication: Canadian Consulting Engineers
 publication_short: CCE
 
 abstract: Global Affairs Canada funded this $30M project with the goal of improving the health of residents in 20 towns in Ghana’s Northern Region through improved access to water supply and
-sanitation services. Cowater International with Norda Stelo provided engineering design, technical assistance, capacity building and management support to the Government of Ghana in the implementation of project activities, resulting in new community- managed water supplies and improved health and quality of life for over 165,000 residents.
+sanitation services. Cowater International with Norda Stelo provided engineering design, technical assistance, capacity building and management support to the Government of Ghana in the implementation of project activities, resulting in new community managed water supplies and improved health and quality of life for over 165,000 residents.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary:
 
 tags: [CCE, Ghana, Awards]
 
@@ -81,12 +81,13 @@ slides: ""
 By: 2017 Canadian Consulting Engineering Awards  
 
 **Global Affairs Canada funded this $30M project with the goal of improving the health of residents in 20 towns in Ghana’s Northern Region through improved access to water supply and
-sanitation services. Cowater International with Norda Stelo provided engineering design, technical assistance, capacity building and management support to the Government of Ghana in the implementation of project activities, resulting in new community- managed water supplies and improved health and quality of life for over 165,000 residents.**  
+sanitation services. Cowater International with Norda Stelo provided engineering design, technical assistance, capacity building and management support to the Government of Ghana in the implementation of project activities, resulting in new community-managed water supplies and improved health and quality of life for over 165,000 residents.**  
 
 The Northern Region Small Towns Water & Sanitation (NORST) Project was implemented between 2008 and 2016. At the outset less than 25% of northern Ghana’s rural population was estimated to have access to clean water supplies. The project was co-implemented with Ghana’s Community Water & Sanitation Agency (CWSA) and District towns, who were responsible for procurement of construction services.  
 
 **Multiple benefits**  
 The NORST project provided multiple benefits including:  
+
 * New water systems operating in 20 towns, benefiting a population of 165,774. Given the region’s topography and hydrogeology, systems typically include borehole sources with submersible pumps, elevated storage tanks, basic treatment, and distribution to both public and domestic taps.  
 * Effective operation and maintenance structures were established in all towns. All benefited from training on operation, maintenance, administration and financial management.  
 * All towns now regularly prepare and update District development plans which address water, sanitation and environmental concerns and objectives.  
@@ -103,6 +104,7 @@ The Project was based in Tamale, over 600km north of the capital city of Accra. 
 
 **Exceeding goals**  
 Under the overall goal of improving the health of residents, the client defined results to gauge performance, including:  
+
 * Improved access to sustainable potable water supply, and sanitation facilities in selected towns, benefiting a minimum of 125,000 residents;  
 * Strengthened capacity of District Water & Sanitation Management Teams to fulfill their mandates in water service delivery, management, operation and maintenance; and  
 * Strengthened capacity of government stakeholders to support the planning, construction and operation of small town services.  
