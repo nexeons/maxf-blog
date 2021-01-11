@@ -20,6 +20,7 @@ bio: My professional interests include hydrological and hydraulic modeling, floo
 interests:
 - Hydrological and hydraulic modeling
 - Flood analysis
+- Water supply and renewable energy in a developing context
 - GIS and mapping
 - Data science
 
