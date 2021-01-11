@@ -86,7 +86,6 @@ The Northern Region Small Towns Water & Sanitation (NORST) Project was implement
 
 **Multiple benefits**  
 The NORST project provided multiple benefits including:
-
 * New water systems operating in 20 towns, benefiting a population of 165,774. Given the region’s topography and hydrogeology, systems typically include borehole sources with submersible pumps, elevated storage tanks, basic treatment, and distribution to both public and domestic taps.  
 * Effective operation and maintenance structures were established in all towns. All benefited from training on operation, maintenance, administration and financial management.  
 * All towns now regularly prepare and update District development plans which address water, sanitation and environmental concerns and objectives.  
@@ -102,7 +101,6 @@ The Project was based in Tamale, over 600km north of the capital city of Accra. 
 
 **Exceeding goals**  
 Under the overall goal of improving the health of residents, the client defined results to gauge performance, including:
-
 * Improved access to sustainable potable water supply, and sanitation facilities in selected towns, benefiting a minimum of 125,000 residents;  
 * Strengthened capacity of District Water & Sanitation Management Teams to fulfill their mandates in water service delivery, management, operation and maintenance; and  
 * Strengthened capacity of government stakeholders to support the planning, construction and operation of small town services.  
