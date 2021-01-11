@@ -85,7 +85,7 @@ By: 2017 Canadian Consulting Engineering Awards
 The Northern Region Small Towns Water & Sanitation (NORST) Project was implemented between 2008 and 2016. At the outset less than 25% of northern Ghana’s rural population was estimated to have access to clean water supplies. The project was co-implemented with Ghana’s Community Water & Sanitation Agency (CWSA) and District towns, who were responsible for procurement of construction services.  
 
 **Multiple benefits**  
-The NORST project provided multiple benefits including:  
+The NORST project provided multiple benefits including:
 
 * New water systems operating in 20 towns, benefiting a population of 165,774. Given the region’s topography and hydrogeology, systems typically include borehole sources with submersible pumps, elevated storage tanks, basic treatment, and distribution to both public and domestic taps.  
 * Effective operation and maintenance structures were established in all towns. All benefited from training on operation, maintenance, administration and financial management.  
@@ -101,7 +101,7 @@ The transfer of knowledge and knowhow was the cornerstone of the NORST Project a
 The Project was based in Tamale, over 600km north of the capital city of Accra. Most towns were accessed over unpaved dirt roads which sometimes became impassable during the wet season. Construction supplies and equipment were procured from Accra, and timely distribution to the various work sites was a challenge. Wherever possible, procurement was done in bulk well in advance of schedule and transportation to sites was done during dry months.  
 
 **Exceeding goals**  
-Under the overall goal of improving the health of residents, the client defined results to gauge performance, including:  
+Under the overall goal of improving the health of residents, the client defined results to gauge performance, including:
 
 * Improved access to sustainable potable water supply, and sanitation facilities in selected towns, benefiting a minimum of 125,000 residents;  
 * Strengthened capacity of District Water & Sanitation Management Teams to fulfill their mandates in water service delivery, management, operation and maintenance; and  
