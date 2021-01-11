@@ -33,7 +33,7 @@ abstract: Global Affairs Canada funded this $30M project with the goal of improv
 sanitation services. Cowater International with Norda Stelo provided engineering design, technical assistance, capacity building and management support to the Government of Ghana in the implementation of project activities, resulting in new community- managed water supplies and improved health and quality of life for over 165,000 residents.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: ""
 
 tags: [CCE, Ghana, Awards]
 
@@ -76,7 +76,7 @@ projects: []
 slides: ""
 ---
 
-**Award of Excellence - International**  
+**CCE Award of Excellence - International**  
 *November 1st, 2017*  
 By: 2017 Canadian Consulting Engineering Awards  
 
