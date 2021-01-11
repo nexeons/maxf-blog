@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes:
 - "Author"
-- "Contributing Author"
+- "Project Engineer"
 
 date: "2017-10-01T00:00:00Z"
 doi: ""

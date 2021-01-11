@@ -11,7 +11,7 @@ authors:
 # Author notes (optional)
 author_notes:
 - "Author"
-- "Contributing Author"
+- "Interview"
 
 date: "2009-10-07T00:00:00Z"
 doi: ""
