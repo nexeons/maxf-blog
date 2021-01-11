@@ -1,5 +1,5 @@
 ---
-title: "Amélioration du taux d’électrification rurale: L’ABER propose une nouvelle approche"
+title: "Amélioration du taux d’électrification rurale: l’ABER propose une nouvelle approche"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -75,7 +75,7 @@ projects: []
 slides: ""
 ---
 
-**Amélioration du taux d’électrification rurale: L’ABER propose une nouvelle approche**  
+**Amélioration du taux d’électrification rurale: l’ABER propose une nouvelle approche**  
 *9 octobre 2019*  
 Par : Boukary BONKOUNGOU
 
