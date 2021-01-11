@@ -29,11 +29,12 @@ publication_types: ["2"]
 publication: Canadian Consulting Engineers
 publication_short: CCE
 
-abstract: Global Affairs Canada funded this $30M project with the goal of improving the health of residents in 20 towns in Ghana’s Northern Region through improved access to water supply and
+abstract: >
+Global Affairs Canada funded this $30M project with the goal of improving the health of residents in 20 towns in Ghana’s Northern Region through improved access to water supply and
 sanitation services. Cowater International with Norda Stelo provided engineering design, technical assistance, capacity building and management support to the Government of Ghana in the implementation of project activities, resulting in new community managed water supplies and improved health and quality of life for over 165,000 residents.
 
 # Summary. An optional shortened abstract.
-summary:
+summary: ""
 
 tags: [CCE, Ghana, Awards]
 
