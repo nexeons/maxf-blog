@@ -19,10 +19,12 @@ bio: My professional interests include hydrological and hydraulic modeling, floo
 # Interests to show in About widget
 interests:
 - Hydrological and hydraulic modeling
-- Flood analysis
-- Water supply and renewable energy in a developing context
+- Flood analysis, stormwater management and erosion control
+- Water supply and renewable energy in a developing country context
 - GIS and mapping
-- Data science
+- Capacity building
+
+
 
 # Education to show in About widget
 education:
