@@ -18,13 +18,10 @@ bio: My professional interests include hydrological and hydraulic modeling, floo
 
 # Interests to show in About widget
 interests:
-- Hydrological and hydraulic modeling
-- Flood analysis, stormwater management and erosion control
-- Water supply and renewable energy in a developing country context
-- GIS and mapping
-- Capacity building
-
-
+- Hydrological and hydraulic modelling
+- Stormwater management and flood analysis
+- Drinking water supply (developing context)
+- Geographic information systems
 
 # Education to show in About widget
 education:
@@ -65,6 +62,6 @@ email: ""
 highlight_name: false
 ---
 
-Engineer specialized in hydrological and hydraulic modeling, flood mapping, GIS and data science. Former {{< staticref "https://www.cowater.com" "newtab" >}}Cowater{{< /staticref >}}, I spent close to 10 years addressing water scarcity issues around the world. My career brought me all the way from water supply and flood mapping in the Sahel desert of West Africa, to post-earthquake water infrastructure vulnerability assessments in Haiti, decentralized wastewater management in remote communities of Alaska, hydraulic modelling in the Khyber Pakhtunkhwa Provice of Pakistan, large-scale mobile surveys for water infrastructure assessments in Jordan and various assignments in almost a dozen other countries. I'm now focusing my work on hydrological and hydraulic modeling closer to home with {{< staticref "https://www.aquasphera.ca" "newtab" >}}Aquasphera{{< /staticref >}}, where we specialize in flood analysis, stormwater management, drainage, erosion control and river modelling with government and private partners here in Canada.
+Engineer specialized in hydrological and hydraulic modelling, flood mapping, GIS and data science. Former {{< staticref "https://www.cowater.com" "newtab" >}}Cowater{{< /staticref >}}, I spent close to 10 years addressing water scarcity issues around the world. My career brought me all the way from water supply and flood mapping in the Sahel desert of West Africa, to post-earthquake water infrastructure vulnerability assessments in Haiti, decentralized wastewater management in remote communities of Alaska, hydraulic modelling in the Khyber Pakhtunkhwa Provice of Pakistan, large-scale mobile surveys for water infrastructure assessments in Jordan and various assignments in almost a dozen other countries. I'm now focusing my work on hydrological and hydraulic modeling closer to home with {{< staticref "https://www.aquasphera.ca" "newtab" >}}Aquasphera{{< /staticref >}}, where we specialize in flood analysis, stormwater management, drainage, erosion control and river modelling with government and private partners here in Canada.
 
 In my spare time, I enjoy playing chess, kitesurfing and spending time with my amazing wife Hayan and our dog Léo 🐶
