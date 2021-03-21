@@ -59,7 +59,7 @@ PDF file (10$) - {{< staticref "https://gumroad.com/l/uIbex" "newtab" >}}buy on 
 
 ![GPS and Google Earth](GPS_and_D.jpg)  
 
-**GPS & Google Earth for development**  
+**GPS & Google Earth for Development**  
 *How to create, share and collaborate with maps on the net*  
 This book shows you how to use a GPS and Google Earth to create simple and expressive maps to share on the web like the one shown on the cover.  
 
