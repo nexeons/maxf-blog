@@ -49,5 +49,3 @@ A neat little tool has been making the rounds amongst GIS afficionados since las
 ![How it's going](Ottawa.png)  
 
 The open-source tool is available here: https://anvaka.github.io/city-roads/
-
-<iframe width=600 height=371 src="https://lichess.org/study/embed/26hAJfZg/32QTWDj7" frameborder=0></iframe>
